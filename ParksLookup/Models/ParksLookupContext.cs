@@ -12,11 +12,11 @@ namespace ParksLookup.Models
     {
       builder.Entity<Park>()
         .HasData(
-          new Park { ParkId = 1, ParkName = "Yellowstone National Park", ParkLocation = "Wyoming" },
-          new Park { ParkId = 2, ParkName = "Glacier National Park", ParkLocation = "Montana"},
-          new Park { ParkId = 3, ParkName = "Grand Canyon National Park", ParkLocation = "Arzona" },
-          new Park { ParkId = 4, ParkName = "Crater Lake National Park", ParkLocation = "Oregon"},
-          new Park { ParkId = 5, ParkName = "Joshua Tree National Park", ParkLocation = "California"}
+          new Park { ParkId = 1, ParkName = "Mount Rainier", ParkLocation = "Washington" },
+          new Park { ParkId = 2, ParkName = "North Cascades", ParkLocation = "Washington"},
+          new Park { ParkId = 3, ParkName = "Zion", ParkLocation = "Utah" },
+          new Park { ParkId = 4, ParkName = "Shenandoah", ParkLocation = "Virginia"},
+          new Park { ParkId = 5, ParkName = "Redwood", ParkLocation = "California"}
         );
     }
 
