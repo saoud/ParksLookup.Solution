@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V5ujY/MQOgySCF7yh6IWSr8Yvn7ZTtG229YoYmksbzJAzgi2zivsTNGjxHRHk1qYyNfKkQLVdWPkUO6c2Rb2Bw==",
+  "dgSpecHash": "ap6oeWgFw4R4Q1I+QFldVNC5VI4Y35M9V9L3pnVDbweNDjUtUbgFlR3KZ7E1JM7uakGHY89xbwhaQdUtfZmEIg==",
   "success": true,
-  "projectFilePath": "/Users/saoud/git/Epicodus/ParksLookup.Solution/ParksLookup.Solution.csproj",
+  "projectFilePath": "/Users/saoud/git/Epicodus/ParksLookup.Solution/ParksLookup/ParksLookup.Solution.csproj",
   "expectedPackageFiles": [
     "/Users/saoud/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.0/microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "/Users/saoud/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.0/microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",

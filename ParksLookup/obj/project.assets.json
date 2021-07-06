@@ -591,11 +591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/saoud/git/Epicodus/ParksLookup.Solution/ParksLookup.Solution.csproj",
+      "projectUniqueName": "/Users/saoud/git/Epicodus/ParksLookup.Solution/ParksLookup/ParksLookup.Solution.csproj",
       "projectName": "ParksLookup.Solution",
-      "projectPath": "/Users/saoud/git/Epicodus/ParksLookup.Solution/ParksLookup.Solution.csproj",
+      "projectPath": "/Users/saoud/git/Epicodus/ParksLookup.Solution/ParksLookup/ParksLookup.Solution.csproj",
       "packagesPath": "/Users/saoud/.nuget/packages/",
-      "outputPath": "/Users/saoud/git/Epicodus/ParksLookup.Solution/obj/",
+      "outputPath": "/Users/saoud/git/Epicodus/ParksLookup.Solution/ParksLookup/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/saoud/.nuget/NuGet/NuGet.Config"
